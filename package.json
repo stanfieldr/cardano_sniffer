@@ -1,0 +1,25 @@
+{
+  "name": "cardano_itn_analyzer",
+  "version": "1.0.0",
+  "description": "npm install",
+  "main": "centralization.js",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanfieldr/cardano_sniffer.git"
+  },
+  "author": "Robert Stanfield",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/stanfieldr/cardano_sniffer/issues"
+  },
+  "homepage": "https://github.com/stanfieldr/cardano_sniffer#readme"
+}
